@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "My first electron app",
+  "main": "app.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "author": "Izzat Alharis",
+  "license": "MIT"
+}
