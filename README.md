@@ -11,7 +11,7 @@ Just a simple template to start building electron app.
 * .gitignore
 
 ### Instruction
-* Download this package or type in terminal:
+* Download this package or simply type in terminal:
 \
 git clone https://github.com/my-store/electron-boilerplate.git
 \
