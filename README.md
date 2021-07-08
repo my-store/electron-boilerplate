@@ -14,11 +14,11 @@ Just a simple template to start building electron app.
 * Download this package or simply type in terminal:
 \
 git clone https://github.com/my-store/electron-boilerplate.git
-\
+
 * Navigate into folder or simply type in terminal:
 \
 cd electron-boilerplate
-\
+
 * Installing module, type in terminal:
 \
 npm install
